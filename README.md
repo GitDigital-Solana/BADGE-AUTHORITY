@@ -1,3 +1,10 @@
+<a href='https://ko-fi.com/T6T61WAZYZ' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
+
+
+<script src="https://liberapay.com/GitDigital_liberapay/widgets/button.js"></script>
+<noscript><a href="https://liberapay.com/GitDigital_liberapay/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+
 # GITDIGITAL BADGE AUTHORITY  
 ## Governance Badge Engine  
 ### Powered by Richard’s Credit Authority
